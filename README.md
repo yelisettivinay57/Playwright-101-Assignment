@@ -16,8 +16,8 @@ Playwright test automation for TestMu AI certification. Runs 3 test scenarios on
 ## Set LambdaTest Credentials
 In Gitpod terminal, set environment variables:
 ```bash
-export LT_USERNAME=<yeliskumar>
-export LT_ACCESS_KEY=<LT_Kj6e5KswSKvfVQQqPmokuIGd96bS5cUYChtL5q5o3UMdc7H>
+set LT_USERNAME=<yeliskumar>
+set LT_ACCESS_KEY=<LT_Kj6e5KswSKvfVQQqPmokuIGd96bS5cUYChtL5q5o3UMdc7H>
 ```
 
 ## How to run
